@@ -1,0 +1,4 @@
+*.log
+.DS_Store
+mods/thebrokenscript*.jar
+mods/*TBS*.jar
